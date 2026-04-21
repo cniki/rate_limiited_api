@@ -25,7 +25,7 @@ npm install
 3️⃣ Setup environment variables
 Create a .env file:
 PORT=5000
-MONGO_URI=mongodb+srv://chouhanniki60_db_user:iiFNrkz3fonIOfYy@cluster0.qzayvgb.mongodb.net/?appName=Cluster0
+MONGO_URI= mongodburl from mongodb atlas
 4️⃣ Start MongoDB
 Make sure MongoDB is running locally.
 5️⃣ Run the server
